@@ -1,0 +1,6 @@
+**/.DS_Store
+/example/output
+/stressLogs
+/tools/*.log
+/template_java/*.zip
+/template_java/*.txt
